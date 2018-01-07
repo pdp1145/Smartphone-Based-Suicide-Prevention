@@ -91,6 +91,19 @@ https://spectrum.ieee.org/consumer-electronics/portable-devices/a-software-shrin
 Electronic self-monitoring of mood using IT platforms in adult patients with bipolar disorder: A systematic review of the validity and evidence.
 https://www.ncbi.nlm.nih.gov/pubmed/26769120
 
+Emotion recognition using mobile phones.
+2016 IEEE 18th International Conference on e-Health Networking, Applications and Services (Healthcom)
+
+Empath: a continuous remote emotional health monitoring system for depressive illness. 
+Proceedings of the 2nd Conference on Wireless Health (WH '11). ACM, New York, NY, USA, Article 5
+
+Predicting Negative Emotions Based on Mobile Phone Usage Patterns: An Exploratory Study
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4997004/
+
+Moodscope: building a mood sensor from smartphone usage patterns. 
+http://www.ruf.rice.edu/~mobile/publications/likamwa2013mobisys2.pdf
+Proceeding of the 11th Annual International Conference on Mobile Systems, Applications, and Services; 25-28 June 2013; Taipei, Taiwan
+
 "According to the 7-38-55 Rule of Personal Communication, words influence only 7% of our perception of affective state. Tone of voice and body language contribute to 38% and 55% of personal communication, respectively."
 https://www.affectiva.com/emotion-ai-overview/
 
@@ -165,6 +178,14 @@ http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0129056
 
 Heart Rate Variability Using the Phone's Camera.
 https://www.marcoaltini.com/blog/heart-rate-variability-using-the-phones-camera
+
+Detecting Human Emotions Using Smartphone Accelerometer Data.
+http://www.mn.uio.no/ifi/studier/masteroppgaver/robin/andreasferovigolsen-masteroppgave.pdf
+
+Emotion-Recognition Using Smart Watch Accelerometer Data: Preliminary Findings.
+https://arxiv.org/pdf/1709.09148.pdf
+
+
 
 
 
