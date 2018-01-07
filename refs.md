@@ -1,7 +1,7 @@
 ## References
  
 
-### The seriousness of the problem specific to acquired disabilities and TBI:
+### The seriousnes nature of the problem specific to acquired disabilities and TBI:
 
 "There appears to be about a three to fourfold increased risk of suicide after TBI.”
 The neuropsychiatry of depression after brain injury. 
@@ -66,6 +66,18 @@ http://ieeexplore.ieee.org/abstract/document/6215056/
 
 Multi-view classification of psychiatric conditions based on saccades.
 https://www.sciencedirect.com/science/article/pii/S1568494615001398
+
+Notes on “Deep Scattering Spectrum”.
+https://wiki.inf.ed.ac.uk/twiki/pub/CSTR/ListenSemester2201314/ghenter_deep_scattering_slides_rev.pdf
+
+Invariant Scattering Convolution Networks.
+https://arxiv.org/pdf/1706.08818.pdf
+
+Deep Roto-Translation Scattering for Object Classification.
+https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Oyallon_Deep_Roto-Translation_Scattering_2015_CVPR_paper.pdf
+
+DI ENS deep scattering transform research:
+http://www.di.ens.fr/data/scattering/
 
 
 ### Multi-modality, smartphones, and therapy:
