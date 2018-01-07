@@ -1,6 +1,6 @@
 ## Concept Drift Adaptive Classifier-based Detection of Suicidal Ideation During Rehabilitation Using Multi-Modal Feature Data Continuously Acquired from Smartphone Use: A Call for Collaboration
 
-![](lsvm_moe_diag2d.jpg)
+![](lsvm_moe_diag2f.jpg)
 
 _Note: The breadth and depth of this project, from the design and integration of signal, image and text processing for feature extraction, to development of the classifier architecture and training algorithms, to the process of collecting a database, and most importantly it's application in the rehabilitation setting requires collaboration with an institution having the interest to investigate the use of smartphone-based feature data acquisition and machine learning to addressing this critical issue affecting both patients and their families. Thanks to Spaulding Hospital, this Innovation Challenge has provided an opportunity to raise awareness of this issue. This submission is nothing more than a proposal made in the hope sparking interest, and hopefully initiating a collaboration to develop and test a system based on these overall principles._ 
 
