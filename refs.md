@@ -1,7 +1,7 @@
 ## References
  
 
-### The seriousnes nature of the problem specific to acquired disabilities and TBI:
+### The serious nature of the problem specific to acquired disabilities and TBI:
 
 "There appears to be about a three to fourfold increased risk of suicide after TBI.”
 The neuropsychiatry of depression after brain injury. 
